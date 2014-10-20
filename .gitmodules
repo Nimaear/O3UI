@@ -1,0 +1,30 @@
+[submodule "O3"]
+	path = O3
+	url = git@github.com:Nimaear/O3.git
+[submodule "O3Action"]
+	path = O3Action
+	url = git@github.com:Nimaear/O3Action.git
+[submodule "O3Bag"]
+	path = O3Bag
+	url = git@github.com:Nimaear/O3Bag.git
+[submodule "O3Loot"]
+	path = O3Loot
+	url = git@github.com:Nimaear/O3Loot.git
+[submodule "O3Mail"]
+	path = O3Mail
+	url = git@github.com:Nimaear/O3Mail.git
+[submodule "O3Merchant"]
+	path = O3Merchant
+	url = git@github.com:Nimaear/O3Merchant.git
+[submodule "O3Plate"]
+	path = O3Plate
+	url = git@github.com:Nimaear/O3Plate.git
+[submodule "O3Play"]
+	path = O3Play
+	url = git@github.com:Nimaear/O3Play.git
+[submodule "O3UnitFrames"]
+	path = O3UnitFrames
+	url = git@github.com:Nimaear/O3UnitFrames.git
+[submodule "O3TradeSkill"]
+	path = O3TradeSkill
+	url = git@github.com:Nimaear/O3TradeSkill.git
