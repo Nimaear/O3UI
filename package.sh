@@ -6,6 +6,7 @@ git submodule update
 find -iname '.git' | xargs rm -rf
 rm .gitignore
 rm .gitmodules
+rm package.sh
 zip -9 -m -r TriOxygen-$1.zip *
 mv TriOxygen-$1.zip ../
 cd ..
