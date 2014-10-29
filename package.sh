@@ -1,5 +1,5 @@
 #!/bin/bash
-git clone git@github.com:Nimaear/O3UI.git TriOxygen
+git clone git@github.com:TriOxygen/TriOxygen.git TriOxygen
 cd TriOxygen
 git submodule init
 git submodule update
